@@ -26,8 +26,9 @@ tags: adaptive-softmax transformer-XL
 
 对于不想过深了解的同学，请查看这两篇 blog，写的比下文好。
 
-- [从字到词，大词典中文BERT模型的探索之旅 | 腾讯技术工程](https://mp.weixin.qq.com/s/OBkEsjNBJaYws8UQbZ9B0A)
--  [Adaptive Softmax | 简书](https://www.jianshu.com/p/d6d5575bccff)
+- [从字到词，大词典中文BERT模型的探索之旅 from 腾讯技术工程](https://mp.weixin.qq.com/s/OBkEsjNBJaYws8UQbZ9B0A)
+
+- [Adaptive Softmax from 简书](https://www.jianshu.com/p/d6d5575bccff)
 
 ## Related Work
 
@@ -77,7 +78,7 @@ $$
 
 论文中进行了较详细的论述，总结一下就是 *2-level tree* 会造成较大的性能损失，因为没有考虑词汇出现的频率分布情况。  
 
-如果你还是不明白，可以参考下面的blog，解释的很清楚。[Adaptive Softmax | 简书](https://www.jianshu.com/p/d6d5575bccff)
+如果你还是不明白，可以参考下面的blog，解释的很清楚。[Adaptive Softmax from 简书](https://www.jianshu.com/p/d6d5575bccff)
 
 ## 总结
 

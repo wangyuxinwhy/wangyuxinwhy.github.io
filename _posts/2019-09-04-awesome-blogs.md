@@ -4,7 +4,7 @@ title: 'Awesome Blogs : a collections of awesome blog'
 date: 2019-09-04
 author: yuxin.wang
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: 'http://optixor.com/content/uploads/2015/03/awesome-content.jpg'
 tags: awesome blog
 ---
 
