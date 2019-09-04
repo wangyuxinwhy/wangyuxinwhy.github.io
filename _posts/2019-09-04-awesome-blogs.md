@@ -17,3 +17,4 @@ tags: awesome blog
 - 我们为什么要初始化 `logger` 实例而不是使用 `root logger`?
 
 https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/
+

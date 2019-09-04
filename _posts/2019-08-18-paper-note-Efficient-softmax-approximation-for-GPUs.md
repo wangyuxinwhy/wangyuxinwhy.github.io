@@ -4,15 +4,13 @@ title: 'Paper Notebook : Efficient softmax approximation for GPUs'
 date: 2019-08-28
 author: yuxin.wang
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: softmax, adaptive softmax, transformer-XL
+cover: 'https://i.loli.net/2019/09/04/s8RacK1hNwIOrzH.png'
+tags: adaptive-softmax transformer-XL
 ---
 
 
 
 # Paper Notebook : Efficient softmax approximation for GPUs
-
-[TOC]
 
 | key   | value                                                        |
 | ----- | ------------------------------------------------------------ |
